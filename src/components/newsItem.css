@@ -1,0 +1,15 @@
+.news-container {
+    display:inline-block;
+    
+}
+
+.news1 {
+    width: 500px;
+    padding: 20px;
+    border: 1px solid;
+    margin:20px 30px;
+}
+
+.img {
+    width: 400px;
+}
